@@ -97,3 +97,13 @@ Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
      *	Reduced onboarding support
      *	Reassessment of career growth opportunities
 
+The first year, particularly months 6 to 12 is a critical retention period. Interventions during this stage could significantly reduce overall turnover.
+
+**Recommendations:**
+*	Introduce mid-year check-ins (around months 4–6 after employment)
+*	Strengthen career development conversations
+*	Provide manager support and coaching during the first year
+*	Extend onboarding support beyond the first 3 months
+
+**On average, employees from the Customer Support department leave the company earliest.** 
+
