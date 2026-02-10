@@ -37,7 +37,10 @@ Using the provided data the project aims to understand why employees especially 
 * Verified no negative tenure values
 *	Confirmed questionnaire scores within 1-5 range
 *	Cross-checked department assignments
+  
+**SAMPLE SIZE BREAKDOWN:**
 
+<img width="607" height="184" alt="image" src="https://github.com/user-attachments/assets/fa0b74ef-ea2f-45b0-99df-253e0a0ed315" />
 
 
 
