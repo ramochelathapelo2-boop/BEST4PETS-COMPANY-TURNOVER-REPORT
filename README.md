@@ -77,13 +77,13 @@ Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
 ## TURNOVER RATE:
 **The Customer Support department leads with the highest turnover rate of 41%.**
 
-<img width="713" height="586" alt="image" src="https://github.com/user-attachments/assets/709e4152-1b6b-425b-b347-57c3ab2b7bdf" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/709e4152-1b6b-425b-b347-57c3ab2b7bdf" />
 <img width="608" height="187" alt="image" src="https://github.com/user-attachments/assets/7a5d1e83-4fcd-48b4-a177-d580f41745f8" />
 
 ## TENURE ANALYSIS:
 **38 % of leavers left the company between 6 and 12 months after their employment.**
 
-<img width="747" height="402" alt="image" src="https://github.com/user-attachments/assets/a240ad2d-d1b1-49f0-856a-549478ab89cc" />
+<img width="500" height="402" alt="image" src="https://github.com/user-attachments/assets/a240ad2d-d1b1-49f0-856a-549478ab89cc" />
 
 * 38% of leavers exited between 6 and 12 months, making this the highest-risk period for employee turnover.
 * 28% left between 3 and 6 months, indicating a significant number of employees disengage shortly after joining.
@@ -107,7 +107,7 @@ The first year, particularly months 6 to 12 is a critical retention period. Inte
 
 **On average, employees from the Customer Support department leave the company earliest.** 
 
-<img width="661" height="281" alt="image" src="https://github.com/user-attachments/assets/cc3c51ff-25a4-47ad-9b10-f96fb46dd59d" />
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/cc3c51ff-25a4-47ad-9b10-f96fb46dd59d" />
 
 This chart compares average employee tenure (in days) between the Customer Support (CS) department and all other departments combined
 
@@ -184,7 +184,7 @@ Training completion appears to be a key protective factor against turnover, with
 
 **Analysis of results from the questionnaire reveal that leavers had the lowest engagement scores and the most unsatisfied with their salaries.**
 
-<img width="614" height="131" alt="image" src="https://github.com/user-attachments/assets/15eb7f2f-d589-4449-be84-47bc47c8cdd7" />
+<img width="500" height="131" alt="image" src="https://github.com/user-attachments/assets/15eb7f2f-d589-4449-be84-47bc47c8cdd7" />
 
 *	Leavers reported low levels of support from management and colleagues, with an average engagement score of 2.7 out of 5, indicating that engagement and workplace support play a critical role in employee retention.
 *	Salary satisfaction scores showed minimal difference between leavers and stayers. However, stayers reported slightly higher satisfaction, with an average score of 3.4 out of 5, suggesting that compensation alone is not the primary driver of turnover
