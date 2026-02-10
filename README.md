@@ -89,7 +89,9 @@ Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
 * 28% left between 3 and 6 months, indicating a significant number of employees disengage shortly after joining.
 *	21% left within the first 0–3 months, suggesting onboarding or role expectation issues for some new hires.
 *	Only 13% left after 12 months, showing that employees who stay beyond one year are far more likely to remain.
+  
 **Insights:**
+
 *	Turnover is concentrated in the first year of employment, especially after initial onboarding but before long-term commitment is established.
 *	The 6–12-month window often coincides with:
      *	Increased workload expectations
