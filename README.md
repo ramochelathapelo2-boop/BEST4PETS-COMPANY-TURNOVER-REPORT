@@ -20,6 +20,23 @@ Using the provided data the project aims to understand why employees especially 
 -	Manager engagement/support
 -	Work environment
 -	Distributed to both current and former employees
+### DATA CLEANING STEPS:
+1.	**Duplicate Check:** Verified no duplicate employee IDs (n=120 unique records)
+2.	**Missing Values:** 
+*	8 employees had incomplete questionnaire responses (6.7%)
+*	Handled by excluding from engagement analysis only
+*	Retained for tenure and training analysis
+3.	**Date Validation:**
+*	Confirmed all start dates within 2023-2025 range
+*	Calculated tenure in days: Tenure = *End Date - Start Date* (for leavers)
+*	For current employees: Tenure = *TODAY() - Start Date*
+4.	**Categorisation:** 
+* Created tenure buckets: 0-3 months, 3-6 months, 6-12 months, 12+ months
+*	Binary training completion: Yes/No
+5.	**Data Quality Checks:** 
+* Verified no negative tenure values
+*	Confirmed questionnaire scores within 1-5 range
+*	Cross-checked department assignments
 
 
 
