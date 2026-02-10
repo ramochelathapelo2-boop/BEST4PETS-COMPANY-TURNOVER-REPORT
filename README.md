@@ -13,13 +13,14 @@ Using the provided data the project aims to understand why employees especially 
 *	**Power BI:** Dashboard creation, DAX measures, data visualisation
 *	**Excel:** Initial data cleaning and validation
 *	**Statistical Analysis:** Basic hypothesis testing for training impact
-DATA SOURCES:
-1.	HR Records: Employee demographics, tenure, training completion, performance metrics
-2.	Exit Questionnaire: 5-point Likert scale ratings on: 
-o	Salary satisfaction
-o	Manager engagement/support
-o	Work environment
-o	Distributed to both current and former employees
+### DATA SOURCES:
+1.	**HR Records:** Employee demographics, tenure, training completion, performance metrics
+2.	**Exit Questionnaire:** 5-point Likert scale ratings on: 
+-	Salary satisfaction
+-	Manager engagement/support
+-	Work environment
+-	Distributed to both current and former employees
+
 
 
 
