@@ -74,4 +74,26 @@ There is minimal difference in salary satisfaction scores between employees who 
 <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/fdc3c45c-ba5a-46b8-a8d2-b9957616438d" />
 Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
 
+## TURNOVER RATE:
+**The Customer Support department leads with the highest turnover rate of 41%.**
+
+<img width="713" height="586" alt="image" src="https://github.com/user-attachments/assets/709e4152-1b6b-425b-b347-57c3ab2b7bdf" />
+<img width="608" height="187" alt="image" src="https://github.com/user-attachments/assets/7a5d1e83-4fcd-48b4-a177-d580f41745f8" />
+
+## TENURE ANALYSIS:
+**38 % of leavers left the company between 6 and 12 months after their employment.**
+
+<img width="747" height="402" alt="image" src="https://github.com/user-attachments/assets/a240ad2d-d1b1-49f0-856a-549478ab89cc" />
+
+* 38% of leavers exited between 6 and 12 months, making this the highest-risk period for employee turnover.
+* 28% left between 3 and 6 months, indicating a significant number of employees disengage shortly after joining.
+*	21% left within the first 0–3 months, suggesting onboarding or role expectation issues for some new hires.
+*	Only 13% left after 12 months, showing that employees who stay beyond one year are far more likely to remain.
+**Insights:**
+*	Turnover is concentrated in the first year of employment, especially after initial onboarding but before long-term commitment is established.
+*	The 6–12-month window often coincides with:
+     *	Increased workload expectations
+     *	Performance evaluations
+     *	Reduced onboarding support
+     *	Reassessment of career growth opportunities
 
