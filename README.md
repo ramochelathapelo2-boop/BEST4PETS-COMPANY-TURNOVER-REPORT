@@ -107,3 +107,19 @@ The first year, particularly months 6 to 12 is a critical retention period. Inte
 
 **On average, employees from the Customer Support department leave the company earliest.** 
 
+<img width="661" height="281" alt="image" src="https://github.com/user-attachments/assets/cc3c51ff-25a4-47ad-9b10-f96fb46dd59d" />
+
+This chart compares average employee tenure (in days) between the Customer Support (CS) department and all other departments combined
+
+**Key Findings**
+*	Employees in **Customer Support leave significantly earlier** than employees in other departments.
+*	The **average tenure in Customer Support is 158 days**, which is **52 days shorter than the company-wide average** of 210 days.
+*	Other departments retain employees for considerably longer, indicating that early exits are not a company-wide issue, but are concentrated within Customer Support.
+  
+The early exits in Customer Support suggest **department-specific challenges**, rather than general organisational problems.
+
+**Possible contributing factors may include:**
+*	High workload or emotional labour
+*	Insufficient training or onboarding
+*	Management or team culture issues
+*	Misalignment between role expectations and reality
