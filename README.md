@@ -1,20 +1,27 @@
  # BEST4PETS COMPANY TURNOVER REPORT
-<img width="674" height="403" alt="image" src="https://github.com/user-attachments/assets/c327da7b-bc25-47f0-be50-604b2dde73b7" />
- <img width="678" height="330" alt="image" src="https://github.com/user-attachments/assets/c3723153-0d78-456a-b81f-4ba4e164fab9" />
-<img width="657" height="437" alt="image" src="https://github.com/user-attachments/assets/4c4ad495-1525-4454-9c74-7cc217415c84" />
-<img width="668" height="399" alt="image" src="https://github.com/user-attachments/assets/05bb88fb-bff8-40d3-8350-9e42454e79b5" />
-<img width="657" height="204" alt="image" src="https://github.com/user-attachments/assets/5e42140b-5072-4be9-b2f7-978d923162ba" />
-<img width="683" height="320" alt="image" src="https://github.com/user-attachments/assets/a0cac905-0951-4a29-a7b3-fb9e4df945ef" />
-<img width="642" height="427" alt="image" src="https://github.com/user-attachments/assets/4d1cdf73-6d2c-4d0c-aa3a-a7452ed64410" />
-<img width="555" height="163" alt="image" src="https://github.com/user-attachments/assets/e56a9c0d-9a9e-4ca2-813d-66bbd3e7df3f" />
-<img width="653" height="422" alt="image" src="https://github.com/user-attachments/assets/cdabc244-d0fa-4034-b07d-f14c25231444" />
-<img width="614" height="357" alt="image" src="https://github.com/user-attachments/assets/d3da0b70-6567-43eb-b476-f6c64974d4e6" />
-<img width="638" height="460" alt="image" src="https://github.com/user-attachments/assets/bf80f6d4-9570-4a96-aeda-f5e92cd239d5" />
-<img width="666" height="441" alt="image" src="https://github.com/user-attachments/assets/a7b4b4bc-2438-4d09-a38a-4dd278edf47e" />
-<img width="684" height="154" alt="image" src="https://github.com/user-attachments/assets/1a885d68-73ef-4ca6-9f9c-f72746304537" />
-<img width="656" height="417" alt="image" src="https://github.com/user-attachments/assets/f2da6a79-1dfb-4e8d-b6c9-3271b785dbeb" />
-<img width="665" height="405" alt="image" src="https://github.com/user-attachments/assets/f048419a-7375-4177-8e55-cc3f30d367c3" />
-<img width="603" height="138" alt="image" src="https://github.com/user-attachments/assets/25dce180-97a6-4aa5-a090-25595da83ec6" />
+Best4Pets is a sample company that offers pet maintenance services and sells pet products ranging from food to toys. The HR Head is particularly concerned about the company’s turnover rate, noticing a significant number of employees leave within the first year especially in the Customer Support department. The HR Head is only interested in insights from employees who joined the company from 2023 until 2025.
+The HR Head provided access to the company HR records which contain key information (tenure days, working hours, training stats etc.) about current and previous employees and data from a questionnaire sent to previous employees after their resignations (the same questionnaire was also sent to current employees to gather additional data for comparison purposes). The questionnaire mostly requested participants to anonymously rate (on a scale of 1 to 5) the company’s performance on specific areas based on their experience or thoughts, this included salary satisfaction and engagement/support from assigned managers.
+Using the provided data the project aims to understand why employees especially in Customer Support are leaving the company, the risk factors involved and recommendations to reduce turnover.
+ ### KEY QUESTIONS: 
+*	What is the overall turnover rate?
+* Which department has the highest turnover?
+*	When are employees most likely to leave (0–6 months, 6–12 months, etc.)?
+*	Is training completion linked to turnover?
+*	What can be done to reduce turnover (recommendations)
+### METHODOLOGY AND DATA PREPARATION:
+**TOOLS USED:**
+*	**Power BI:** Dashboard creation, DAX measures, data visualisation
+*	**Excel:** Initial data cleaning and validation
+*	**Statistical Analysis:** Basic hypothesis testing for training impact
+DATA SOURCES:
+1.	HR Records: Employee demographics, tenure, training completion, performance metrics
+2.	Exit Questionnaire: 5-point Likert scale ratings on: 
+o	Salary satisfaction
+o	Manager engagement/support
+o	Work environment
+o	Distributed to both current and former employees
+
+
 
 
 
