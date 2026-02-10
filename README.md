@@ -147,6 +147,7 @@ Employees who did not complete training were 18 percentage points more likely to
 A chi-square test of independence was conducted to assess whether the observed difference in turnover rates between trained and untrained employees was statistically significant.
 
 Hypothesis statements:
+
 **Null hypothesis (H₀):** Training completion and employee retention are independent.
 
 **Alternative hypothesis (H₁):** Training completion and employee retention are associated.
