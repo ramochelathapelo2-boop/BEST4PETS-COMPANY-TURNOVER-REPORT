@@ -71,6 +71,7 @@ Most employee exits occur between **6 and 12 months of employment**. This sugges
 
 There is minimal difference in salary satisfaction scores between employees who left and those who stayed. This indicates that compensation alone is unlikely to resolve the turnover issue. Instead, **employee engagement and managerial support emerge as the primary drivers of turnover**, suggesting that efforts should focus on improving leadership effectiveness and employee involvement to enhance retention
 
-
+<img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/fdc3c45c-ba5a-46b8-a8d2-b9957616438d" />
+Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
 
 
