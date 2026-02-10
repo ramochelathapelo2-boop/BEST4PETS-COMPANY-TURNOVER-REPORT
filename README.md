@@ -42,6 +42,16 @@ Using the provided data the project aims to understand why employees especially 
 
 <img width="607" height="184" alt="image" src="https://github.com/user-attachments/assets/fa0b74ef-ea2f-45b0-99df-253e0a0ed315" />
 
+**Overall Turnover Rate:** 31.7% (38/120)
+
+**Limitations & Caveats:**
+*	**Small sample size** (n=120) limits statistical power for some analyses
+*	**Survey response bias:** Former employees may rate experiences more negatively
+*	**Time period:** 2-year window may not capture seasonal hiring patterns
+*	**Self-reported data:** Engagement scores are subjective
+*	**Survivorship bias:** Current employees still in early tenure may eventually leave
+*	**Missing qualitative data:** No exit interview notes for deeper context
+
 
 
 
