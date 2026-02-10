@@ -123,3 +123,92 @@ The early exits in Customer Support suggest **department-specific challenges**, 
 *	Insufficient training or onboarding
 *	Management or team culture issues
 *	Misalignment between role expectations and reality
+
+**Recommendations:**
+
+Conduct a **deep-dive analysis or investigation** into Customer Support:
+*	Compare engagement scores against other departments
+*	Assess training completion rates
+*	Analyse turnover by manager within the department
+
+## TRAINING COMPLETION AND TURNOVER ANALYSIS:
+This table compares turnover rates between employees who completed training and those who did not complete training
+
+<img width="583" height="160" alt="image" src="https://github.com/user-attachments/assets/caaa65d0-4661-4bdb-ad1c-91938f327caa" />
+
+**Key Findings:**
+ Employees who completed training had a significantly lower turnover rate:
+*	27% leavers
+*	73% stayers
+  
+Employees who did not complete training were 18 percentage points more likely to leave the company than those who completed training.
+
+**Statistical Analysis: Training and employee retention**
+A chi-square test of independence was conducted to assess whether the observed difference in turnover rates between trained and untrained employees was statistically significant.
+
+Hypothesis statements:
+**Null hypothesis (H₀):** Training completion and employee retention are independent.
+**Alternative hypothesis (H₁):** Training completion and employee retention are associated.
+
+**Test Results:**
+*	χ² = 4.31, df = 1, p = 0.038
+*	**Conclusion:** The association between training completion and retention is statistically significant at the α = 0.05 level. **H₀** rejected since p <0.05
+
+**Interpretation:** There is less than a 4% probability that the observed difference occurred by chance alone. This provides reasonable evidence that training completion is meaningfully associated with employee retention.
+
+However, due to the relatively small sample size (n = 120), the results should be interpreted with caution, as statistical reliability may be reduced and the findings may not fully generalise to the broader population.
+
+**Takeaway:**
+Training completion is **strongly associated** with employee retention.
+
+Employees who complete training are likely to:
+*	Feel more confident in their roles
+*	Perform better due to improved skills
+*	Feel supported by the organisation
+  
+In contrast, employees who do not complete training may:
+*	Struggle with role expectations
+*	Experience lower confidence and engagement
+*	Be more vulnerable to early exit
+  
+**Insight:**
+
+Training completion appears to be a key protective factor against turnover, with trained employees nearly twice as likely to remain with the company.
+
+**Recommendations:**
+*	Ensure **mandatory training completion**, especially within the first 3 months.
+*	Track **training completion rates by department and manager**.
+*	Provide **additional support or refresher training for employees** who fall behind.
+
+## ENGAGEMENT SCORE AND SALARY SATISFACTION:
+
+**Analysis of results from the questionnaire reveal that leavers had the lowest engagement scores and the most unsatisfied with their salaries.**
+
+<img width="614" height="131" alt="image" src="https://github.com/user-attachments/assets/15eb7f2f-d589-4449-be84-47bc47c8cdd7" />
+
+*	Leavers reported low levels of support from management and colleagues, with an average engagement score of 2.7 out of 5, indicating that engagement and workplace support play a critical role in employee retention.
+*	Salary satisfaction scores showed minimal difference between leavers and stayers. However, stayers reported slightly higher satisfaction, with an average score of 3.4 out of 5, suggesting that compensation alone is not the primary driver of turnover
+
+**Recommendations**
+*	The HR department should prioritise initiatives to improve employee engagement, particularly by strengthening managerial support, team collaboration, and regular feedback mechanisms, in order to reduce high turnover rates.
+  
+## RECOMMENDATIONS SUMMARY:
+**Strengthen Early-Tenure Retention (First 12 Months)**
+*	Introduce structured *check-ins at 3, 6, and 9 months*, with particular focus on the 6–12-month high-risk period.
+*	Extend onboarding support beyond the initial induction phase.
+
+**Improve Training Completion**
+*	Make training **mandatory and time-bound**, especially within the first 3 months.
+* Track training completion by **department and manager**.
+
+**Address Customer Support-Specific Challenges**
+*	Conduct a targeted review of the Customer Support department, including:
+    *	Managerial practices
+    *	Training adequacy
+*	Introduce department-specific retention initiatives, such as mentoring or workload balancing.
+
+**Strengthen Manager Capability**
+*	Review turnover trends by manager to identify potential leadership gaps.
+*	Provide manager coaching focused on supporting new hires and early-tenure employees.
+
+
