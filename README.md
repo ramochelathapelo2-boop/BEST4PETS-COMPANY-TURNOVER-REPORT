@@ -52,6 +52,24 @@ Using the provided data the project aims to understand why employees especially 
 *	**Survivorship bias:** Current employees still in early tenure may eventually leave
 *	**Missing qualitative data:** No exit interview notes for deeper context
 
+## EXECUTIVE SUMMARY:
+**Turnover rate:**
+
+The Customer Support department records the highest employee turnover at **41%**, significantly exceeding the turnover rates of other departments, which range between **24% and 32%**. 
+
+In contrast, the **Finance and IT departments** exhibit the lowest turnover rate at **24%**, suggesting stronger employee retention. A deeper investigation into these departments is recommended to identify practices or conditions that contribute to their lower exit rates and assess whether they can be replicated elsewhere.
+
+**Tenure analysis:**
+
+Most employee exits occur between **6 and 12 months of employment**. This suggests that employees may encounter critical challenges during this period that influence their decision to leave. Notably, **employees in the Customer Support department tend to exit earlier** on average than employees in other departments, reinforcing the need for targeted retention strategies within this department.
+
+**Training:**
+
+**Training completion** shows a **statistically significant** relationship with retention outcomes (p < 0.05). **Employees who completed training demonstrate an 18% lower turnover rate** compared to those who did not. This indicates the importance of structured training programs; therefore it is recommended that training completion be made mandatory for all employees.
+
+**Engagement and Salary satisfaction:**
+
+There is minimal difference in salary satisfaction scores between employees who left and those who stayed. This indicates that compensation alone is unlikely to resolve the turnover issue. Instead, **employee engagement and managerial support emerge as the primary drivers of turnover**, suggesting that efforts should focus on improving leadership effectiveness and employee involvement to enhance retention
 
 
 
