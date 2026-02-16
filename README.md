@@ -1,5 +1,5 @@
  # BETTERFORPETS COMPANY TURNOVER REPORT
-BetterForPets is a sample company that offers pet maintenance services and sells pet products ranging from food to toys. The HR Head is particularly concerned about the company’s turnover rate, noticing a significant number of employees leave within the first year especially in the Customer Support department. The HR Head is only interested in insights from employees who joined the company from 2023 until 2025.
+BetterForPets is a  company that offers pet maintenance services and sells pet products ranging from food to toys. The HR Head is particularly concerned about the company’s turnover rate, noticing a significant number of employees leave within the first year especially in the Customer Support department. The HR Head is only interested in insights from employees who joined the company from 2023 until 2025.
 The HR Head provided access to the company HR records which contain key information (tenure days, working hours, training stats etc.) about current and previous employees and data from a questionnaire sent to previous employees after their resignations (the same questionnaire was also sent to current employees to gather additional data for comparison purposes). The questionnaire mostly requested participants to anonymously rate (on a scale of 1 to 5) the company’s performance on specific areas based on their experience or thoughts, this included salary satisfaction and engagement/support from assigned managers.
 Using the provided data the project aims to understand why employees especially in Customer Support are leaving the company, the risk factors involved and recommendations to reduce turnover.
  ### KEY QUESTIONS: 
@@ -72,7 +72,7 @@ Most employee exits occur between **6 and 12 months of employment**. This sugges
 There is minimal difference in salary satisfaction scores between employees who left and those who stayed. This indicates that compensation alone is unlikely to resolve the turnover issue. Instead, **employee engagement and managerial support emerge as the primary drivers of turnover**, suggesting that efforts should focus on improving leadership effectiveness and employee involvement to enhance retention
 
 <img width="940" height="516" alt="image" src="https://github.com/user-attachments/assets/fdc3c45c-ba5a-46b8-a8d2-b9957616438d" />
-Dashboard highlighting key KPIs and visuals discussed in the Executive Summary
+Dashboard highlighting KPIs and visuals discussed in the Executive Summary
 
 ## TURNOVER RATE:
 **The Customer Support department leads with the highest turnover rate of 41%.**
