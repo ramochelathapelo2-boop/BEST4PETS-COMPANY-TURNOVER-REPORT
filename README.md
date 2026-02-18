@@ -55,9 +55,9 @@ Using the provided data the project aims to understand why employees especially 
 ## EXECUTIVE SUMMARY:
 **Turnover rate:**
 
-The Customer Support department records the highest employee turnover at **41%**, significantly exceeding the turnover rates of other departments, which range between **24% and 32%**. 
+The Customer Support department records the highest employee turnover at 41%, significantly exceeding the turnover rates of other departments, which range between 24% and 32%. 
 
-In contrast, the **Finance and IT departments** exhibit the lowest turnover rate at **24%**, suggesting stronger employee retention. A deeper investigation into these departments is recommended to identify practices or conditions that contribute to their lower exit rates and assess whether they can be replicated elsewhere.
+In contrast, the **Finance and IT departments** exhibit the lowest turnover rate at 24%, suggesting stronger employee retention. A deeper investigation into these departments is recommended to identify practices or conditions that contribute to their lower exit rates and assess whether they can be replicated elsewhere.
 
 **Tenure analysis:**
 
@@ -114,8 +114,8 @@ The first year, particularly months 6 to 12 is a critical retention period. Inte
 This chart compares average employee tenure (in days) between the Customer Support (CS) department and all other departments combined
 
 **Key Findings**
-*	Employees in **Customer Support leave significantly earlier** than employees in other departments.
-*	The **average tenure in Customer Support is 158 days**, which is **52 days shorter than the company-wide average** of 210 days.
+*	Employees in Customer Support leave significantly earlier than employees in other departments.
+*	The average tenure in Customer Support is 158 days, which is 52 days shorter than the company-wide average of 210 days.
 *	Other departments retain employees for considerably longer, indicating that early exits are not a company-wide issue, but are concentrated within Customer Support.
   
 The early exits in Customer Support suggest **department-specific challenges**, rather than general organisational problems.
@@ -128,7 +128,7 @@ The early exits in Customer Support suggest **department-specific challenges**, 
 
 **Recommendations:**
 
-Conduct a **deep-dive analysis or investigation** into Customer Support:
+Conduct a deep-dive analysis or investigation into Customer Support:
 *	Compare engagement scores against other departments
 *	Assess training completion rates
 *	Analyse turnover by manager within the department
@@ -180,9 +180,9 @@ In contrast, employees who do not complete training may:
 Training completion appears to be a key protective factor against turnover, with trained employees nearly twice as likely to remain with the company.
 
 **Recommendations:**
-*	Ensure **mandatory training completion**, especially within the first 3 months.
-*	Track **training completion rates by department and manager**.
-*	Provide **additional support or refresher training for employees** who fall behind.
+*	Ensure mandatory training completion, especially within the first 3 months.
+*	Track training completion rates by department and manager.
+*	Provide additional support or refresher training for employees who fall behind.
 
 ## ENGAGEMENT SCORE AND SALARY SATISFACTION:
 
@@ -202,8 +202,8 @@ Training completion appears to be a key protective factor against turnover, with
 *	Extend onboarding support beyond the initial induction phase.
 
 **Improve Training Completion**
-*	Make training **mandatory and time-bound**, especially within the first 3 months.
-* Track training completion by **department and manager**.
+*	Make training mandatory and time-bound, especially within the first 3 months.
+* Track training completion by department and manager.
 
 **Address Customer Support-Specific Challenges**
 *	Conduct a targeted review of the Customer Support department, including:
