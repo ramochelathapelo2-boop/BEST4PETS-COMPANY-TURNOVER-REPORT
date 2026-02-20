@@ -12,7 +12,7 @@ Using the provided data the project aims to understand why employees especially 
 **TOOLS USED:**
 *	**Power BI:** Dashboard creation, DAX measures, data visualisation
 *	**Excel:** Initial data cleaning and validation
-*	**Statistical Analysis:** Basic hypothesis testing for training impact
+* **Statistical Analysis:** Basic hypothesis testing for training impact
 ### DATA SOURCES:
 1.	**HR Records:** Employee demographics, tenure, training completion, performance metrics
 2.	**Exit Questionnaire:** 5-point Likert scale ratings on: 
@@ -121,7 +121,7 @@ This chart compares average employee tenure (in days) between the Customer Suppo
 *	The average tenure in Customer Support is 158 days, which is 52 days shorter than the company-wide average of 210 days.
 *	Other departments retain employees for considerably longer, indicating that early exits are not a company-wide issue, but are concentrated within Customer Support.
   
-The early exits in Customer Support suggest **department-specific challenges**, rather than general organisational problems.
+The early exits in Customer Support suggest department-specific challenges, rather than general organisational problems.
 
 **Possible contributing factors may include:**
 *	High workload or emotional labour
@@ -149,6 +149,7 @@ This table compares turnover rates between employees who completed training and 
 Employees who did not complete training were 18 percentage points more likely to leave the company than those who completed training.
 
 **Statistical Analysis: Training and employee retention**
+
 A chi-square test of independence was conducted to assess whether the observed difference in turnover rates between trained and untrained employees was statistically significant.
 
 Hypothesis statements:
@@ -169,9 +170,9 @@ However, due to the relatively small sample size (n = 120), the results should b
 Training completion is **strongly associated** with employee retention.
 
 Employees who complete training are likely to:
-*	Feel more confident in their roles
-*	Perform better due to improved skills
-*	Feel supported by the organisation
+  *	Feel more confident in their roles
+  *	Perform better due to improved skills
+  *	Feel supported by the organisation
   
 In contrast, employees who do not complete training may:
 *	Struggle with role expectations
