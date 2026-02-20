@@ -16,10 +16,10 @@ Using the provided data the project aims to understand why employees especially 
 ### DATA SOURCES:
 1.	**HR Records:** Employee demographics, tenure, training completion, performance metrics
 2.	**Exit Questionnaire:** 5-point Likert scale ratings on: 
--	Salary satisfaction
--	Manager engagement/support
--	Work environment
--	Distributed to both current and former employees
+    -	Salary satisfaction
+    -	Manager engagement/support
+    -	Work environment
+    -	Distributed to both current and former employees
 ### DATA CLEANING STEPS:
 1.	**Duplicate Check:** Verified no duplicate employee IDs (n=120 unique records)
 2.	**Missing Values:** 
